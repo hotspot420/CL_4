@@ -1,0 +1,257 @@
+[
+    {
+        "id": 1,
+        "question": "I want to spend more time around people with different identities than me.",
+        "category": "community comfort"
+    },
+    {
+        "id": 2,
+        "question": "I don't have a lot of exposure to people with different identities than me.",
+        "category": "community comfort"
+    },
+    {
+        "id": 3,
+        "question": "If I believe something strongly, I have a hard time changing my opinion.",
+        "category": "rigidity"
+    },
+    {
+        "id": 4,
+        "question": "I sometimes say controversial things.",
+        "category": "controversy"
+    },
+    {
+        "id": 5,
+        "question": "I feel uncomfortable sharing space with people who have controversial views.",
+        "category": "controversy"
+    },
+    {
+        "id": 6,
+        "question": "I would like to interact more with people who express controversial views.",
+        "category": "controversy"
+    },
+    {
+        "id": 7,
+        "question": "I can listen to opinions different from mine without needing to debate.",
+        "category": "rigidity"
+    },
+    {
+        "id": 8,
+        "question": "I feel uncomfortable when I can't share my beliefs without debate.",
+        "category": "relationships"
+    },
+    {
+        "id": 9,
+        "question": "I enjoy humor that others might find offensive.",
+        "category": "controversy"
+    },
+    {
+        "id": 10,
+        "question": "I would be okay spending time with someone who uses offensive humor.",
+        "category": "controversy"
+    },
+    {
+        "id": 11,
+        "question": "When I hold a different belief, I often try to change the other person's mind.",
+        "category": "rigidity"
+    },
+    {
+        "id": 12,
+        "question": "When I know something, I state it as objective fact.",
+        "category": "rigidity"
+    },
+    {
+        "id": 13,
+        "question": "I resist changing my opinion when someone suggests I might be wrong.",
+        "category": "rigidity"
+    },
+    {
+        "id": 14,
+        "question": "I sometimes exaggerate what I know.",
+        "category": "rigidity"
+    },
+    {
+        "id": 15,
+        "question": "My close community mostly consists of people who look like me.",
+        "category": "community comfort"
+    },
+    {
+        "id": 16,
+        "question": "I would like my close community to be more diverse.",
+        "category": "community comfort"
+    },
+    {
+        "id": 17,
+        "question": "I would like my close community to include a range of beliefs and opinions.",
+        "category": "community comfort"
+    },
+    {
+        "id": 18,
+        "question": "Sometimes I feel stressed by planning activities for friends.",
+        "category": "relationships"
+    },
+    {
+        "id": 19,
+        "question": "I prefer doing similar activities rather than trying new ones.",
+        "category": "interests"
+    },
+    {
+        "id": 20,
+        "question": "I like having friends who encourage me to try new things.",
+        "category": "relationships"
+    },
+    {
+        "id": 21,
+        "question": "I want to have more friends with different hobbies and interests.",
+        "category": "interests"
+    },
+    {
+        "id": 22,
+        "question": "I feel comfortable around people interested in: [list]",
+        "category": "interests"
+    },
+    {
+        "id": 23,
+        "question": "I'm interested in: [list]",
+        "category": "interests"
+    },
+    {
+        "id": 24,
+        "question": "I lose interest in activities easily.",
+        "category": "interests"
+    },
+    {
+        "id": 25,
+        "question": "I'd like to practice being interested in things for a longer time.",
+        "category": "interests"
+    },
+    {
+        "id": 26,
+        "question": "If I don't like something at first, I'm good at giving it another chance.",
+        "category": "interests"
+    },
+    {
+        "id": 27,
+        "question": "I have a hard time making and keeping friends.",
+        "category": "relationships"
+    },
+    {
+        "id": 28,
+        "question": "I want to make more friends.",
+        "category": "relationships"
+    },
+    {
+        "id": 29,
+        "question": "I know what it's like to have a close group of friends who feel like family.",
+        "category": "relationships"
+    },
+    {
+        "id": 30,
+        "question": "I identify more as introverted than extroverted.",
+        "category": "relationships"
+    },
+    {
+        "id": 31,
+        "question": "I would like to spend more time with people who are introverted/extroverted.",
+        "category": "relationships"
+    },
+    {
+        "id": 32,
+        "question": "I feel comfortable being myself if I can create a persona.",
+        "category": "emotions"
+    },
+    {
+        "id": 33,
+        "question": "Loving myself more is a priority for me.",
+        "category": "emotions"
+    },
+    {
+        "id": 34,
+        "question": "I clearly understand my values.",
+        "category": "emotions"
+    },
+    {
+        "id": 35,
+        "question": "Of these, my top 5 values include: [list]",
+        "category": "emotions"
+    },
+    {
+        "id": 36,
+        "question": "I would like more exposure to people with different values.",
+        "category": "community comfort"
+    },
+    {
+        "id": 37,
+        "question": "I understand what my emotions feel like in my body.",
+        "category": "emotions"
+    },
+    {
+        "id": 38,
+        "question": "I know the names of many different emotions.",
+        "category": "emotions"
+    },
+    {
+        "id": 39,
+        "question": "I struggle to feel emotions vs. I feel my emotions too strongly.",
+        "category": "emotions"
+    },
+    {
+        "id": 40,
+        "question": "Some emotions I want to feel more of are: [list]",
+        "category": "emotions"
+    },
+    {
+        "id": 41,
+        "question": "I want to learn more tools for managing my emotions.",
+        "category": "emotions"
+    },
+    {
+        "id": 42,
+        "question": "I sometimes feel 'out of my body,' like watching my life as a movie.",
+        "category": "emotions"
+    },
+    {
+        "id": 43,
+        "question": "I often feel like no one understands me.",
+        "category": "emotions"
+    },
+    {
+        "id": 44,
+        "question": "If people knew more about my ____, I'd feel more understood. [culture, history, interests, emotions, triggers, dreams]",
+        "category": "emotions"
+    },
+    {
+        "id": 45,
+        "question": "I'd like to talk more about my thoughts and feelings, but I find it hard.",
+        "category": "emotions"
+    },
+    {
+        "id": 46,
+        "question": "I grew up in an environment where showing emotions wasn't encouraged.",
+        "category": "emotions"
+    },
+    {
+        "id": 47,
+        "question": "It's easy for me to tell people I love them.",
+        "category": "emotions"
+    },
+    {
+        "id": 48,
+        "question": "It's easy for me to cry in front of others.",
+        "category": "emotions"
+    },
+    {
+        "id": 49,
+        "question": "If I show emotion or vulnerability, I sometimes feel weird afterwards.",
+        "category": "emotions"
+    },
+    {
+        "id": 50,
+        "question": "I often receive feedback that my emotions can be intense to be around.",
+        "category": "emotions"
+    },
+    {
+        "id": 51,
+        "question": "I sometimes cut off relationships if I feel threatened or scared.",
+        "category": "relationships"
+    }
+]

@@ -1,0 +1,47 @@
+{
+    "Vantiro-1": {
+        "description": "A resilient and adaptable subspecies from Shishiq 5.",
+        "folder": "Vantiro-1",
+        "image_count": 7
+    },
+    "Vantiro-2": {
+        "description": "Creative and curious, found in Shishiq 4.",
+        "folder": "Vantiro-2",
+        "image_count": 26
+    },
+    "Vantiro-4": {
+        "description": "Strong and magnetic, residing in Shishiq 5.",
+        "folder": "Vantiro-4",
+        "image_count": 8
+    },
+    "Vantiro-5": {
+        "description": "Compassionate and warm, from Shishiq 4.",
+        "folder": "Vantiro-5",
+        "image_count": 21
+    },
+    "Vantiro-6": {
+        "description": "Thoughtful and introspective, living in Shishiq 3.",
+        "folder": "Vantiro-6",
+        "image_count": 45
+    },
+    "Vantiro-7": {
+        "description": "Brave and adventurous, hailing from Shishiq 2.",
+        "folder": "Vantiro-7",
+        "image_count": 8
+    },
+    "Vantiro-9": {
+        "description": "Wise and insightful, found in Shishiq 1.",
+        "folder": "Vantiro-9",
+        "image_count": 14
+    },
+    "Vantiro-11": {
+        "description": "Resourceful and cunning, from Shishiq 2.",
+        "folder": "Vantiro-11",
+        "image_count": 22
+    },
+    "Vantiro-12": {
+        "description": "Noble and strong-willed, from Shishiq 5.",
+        "folder": "Vantiro-12",
+        "image_count": 18
+    }
+}

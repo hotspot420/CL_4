@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #35424a;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    margin: 20px;
+}
+
+.question-section {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.card-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-section img {
+    max-width: 100%; /* Ensure it fits the container */
+    height: auto;    /* Maintain aspect ratio */
+}
+
+
+.divider {
+    width: 2px;
+    background-color: #ccc;
+    height: 100%;
+    margin: 0 20px;
+}
+
+#next-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#next-button:hover {
+    background-color: #45a049;
+}
+
+.progress-bar-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+progress {
+    width: 100%;
+    height: 20px;
+}
+
+.slider-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.slider {
+    width: 100%; /* Make the slider span full width */
+    margin: 10px 0; /* Space around the slider */
+}
+
+.label-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.label-container label {
+    flex: 1; /* Make labels take equal space */
+    text-align: center; /* Center the labels */
+}
+
+.label-numbers {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.label-numbers span {
+    flex: 1; /* Make numbers take equal space */
+    text-align: center; /* Center the numbers */
+}
